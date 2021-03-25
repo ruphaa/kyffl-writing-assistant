@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "draft-convert": "^2.1.10",
+    "draft-js": "^0.11.7",
+    "draftjs-to-markdown": "^0.6.0",
+    "emotional": "0.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-modal": "^3.12.1",
     "react-scripts": "4.0.3",
+    "unsplash-js": "^7.0.8",
     "web-vitals": "^1.0.1"
   },
   "scripts": {

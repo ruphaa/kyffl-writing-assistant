@@ -6,7 +6,7 @@ import SearchPhotos from './components/SearchPhotos';
 import { ContentContext } from './context/Content'
 
 function App() {
-  const initialContent = localStorage.getItem('content')
+  const initialContent = localStorage.getItem('content') || 'Hello World'
   const [content, setContent] = useState(initialContent)
 
   const switchTheme = () => {
